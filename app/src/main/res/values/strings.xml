@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProBlog</string>
+    <string name="enter_your_email">Eter your Email</string>
+    <string name="Password">Enter your Password</string>
+    <string name="login_to_account">Login To Account</string>
+    <string name="confirm_your_password">Confirm your Password</string>
+    <string name="create_an_account">Create An Account</string>
+    <string name="already_have_an_account">Already Have An Account</string>
+</resources>
